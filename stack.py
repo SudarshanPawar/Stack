@@ -13,7 +13,7 @@ First In Last Out
 
 **Operations:
 
-1.Push(Insert stack)  2. Pop (Remove stack)
+1.Push(Insert into stack)  2. Pop (Remove from stack)
 
 ** Stack creation:
 1. accept length of stack-> integer
